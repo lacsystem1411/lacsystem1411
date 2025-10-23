@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Camba</h1>
-<h3 align="center">Automation engineer passionate about Blockchain and new ecosystems bringing innovation</h3>
+<h3 align="center">Automation engineer passionate about Blockchain, Technology and AI</h3>
 
-- 🌱 I’m currently learning **Solidity, Rust**
+- 🌱 I’m currently learning **Solidity, Phyton**
 
-- 👯 I’m looking to collaborate on **Blockchain, Web3 projects**
+- 👯 I’m looking to collaborate on **ML projects, Data Science and AI projects**
 
 - 📫 How to reach me **luiscamb@gmail.com**
 
